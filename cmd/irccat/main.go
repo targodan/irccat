@@ -2,8 +2,9 @@ package main
 
 import (
 	"io"
-	"irccat"
 	"os"
+
+	"github.com/targodan/irccat"
 
 	"github.com/urfave/cli"
 )
